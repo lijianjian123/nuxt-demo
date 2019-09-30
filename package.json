@@ -1,7 +1,7 @@
 {
   "name": "msb-1v1-websit",
   "version": "1.0.0",
-  "description": "美术宝一对一",
+  "description": "nuxt demo",
   "author": "lijianjian",
   "private": true,
   "scripts": {
